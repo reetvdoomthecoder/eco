@@ -352,8 +352,8 @@ label {
 
 .galleryItem{
 
-padding-left: 50px;
-padding-right: 50px;
+ flex: 1;
+  padding: 50px;
 }
 .galleryImg{
   width: 100%;
